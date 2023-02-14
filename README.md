@@ -1,5 +1,5 @@
 # Advanced-Learning-Algorithms
-[Coursera] [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/learn/advanced-learning-algorithms?)
+[Coursera] [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms?)
 
 ## About this Course
 In the second course of the Machine Learning Specialization, you will:
